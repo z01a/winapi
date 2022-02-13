@@ -16,3 +16,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Add subdirectory for our MessageBox project
 add_subdirectory(MessageBox)
+
+# Add subdirectory for our SimpleWindow project
+add_subdirectory(SimpleWindow)
