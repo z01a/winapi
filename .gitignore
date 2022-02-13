@@ -1,0 +1,2 @@
+# Remove /build directory from source control and all subdirectories
+/build
